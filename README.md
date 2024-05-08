@@ -1,4 +1,4 @@
-# Proyecto-individuaSTEAM
+# Proyecto-individuaSTEAM 
 Proyecto Sistema de Recomendación con SteamGames
 Machine Learning Operations (MLOps)
 El proyecto se centra en el Data Engineering con tres conjuntos de datos relacionados con usuarios, reseñas y juegos. Deberás realizar un proceso de ETL para extraer, transformar y cargar datos, optimizando el código.
@@ -29,6 +29,6 @@ Modelo de Aprendizaje Automático
 El proyecto nos indica proporcionar un modelo de recomendacion de aprendizaje automatico basado en el juego pasado por parametro por el cliente. Este deberá tener una relación ítem-ítem, se toma el item pasado por product_id el mismo contiene tags y genres en el dataset que se utilizaran para poder recomendar al usuario otros 5 juegos con caracteristicas similares y asi proporcionar una recomendacion acorde. Usamos en esta oportunidad la libreria Scikit-learn y usamos el modelo de similaridad del coseno.
 
 Enlaces
-Repositorio (GitHub): Enlace al repositorio
-Implementación del Proyecto (Render): Enlace al proyecto en Render
+Repositorio (GitHub): Enlace al repositorio (https://github.com/raulrodrigo567/Proyecto-individual1)
+Implementación del Proyecto (Render): Enlace al proyecto en Render (https://proyecto-individual1-1-eh54.onrender.com)
 Video (YouTube): Enlace al video
