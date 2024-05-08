@@ -1,0 +1,9 @@
+﻿asttokens
+fastapi
+nltk
+pandas
+typing_extensions
+uvicorn
+pyarrow
+psutil
+scikit-learn
