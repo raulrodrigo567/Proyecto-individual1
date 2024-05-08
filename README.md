@@ -33,4 +33,4 @@ Repositorio (GitHub): Enlace al repositorio (https://github.com/raulrodrigo567/P
 
 Implementación del Proyecto (Render): Enlace al proyecto en Render (https://proyecto-individual1-1-eh54.onrender.com/docs)
 
-Video (YouTube): Enlace al video
+Video (YouTube): Enlace al video (https://www.youtube.com/watch?v=MQnnr_dpuXs)
