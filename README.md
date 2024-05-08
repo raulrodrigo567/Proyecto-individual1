@@ -30,5 +30,6 @@ El proyecto nos indica proporcionar un modelo de recomendacion de aprendizaje au
 
 Enlaces
 Repositorio (GitHub): Enlace al repositorio (https://github.com/raulrodrigo567/Proyecto-individual1)
+
 Implementación del Proyecto (Render): Enlace al proyecto en Render (https://proyecto-individual1-1-eh54.onrender.com)
 Video (YouTube): Enlace al video
