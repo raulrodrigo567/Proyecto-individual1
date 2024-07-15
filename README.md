@@ -1,4 +1,23 @@
 # Proyecto-individuaSTEAM 
+<details>
+<summary><strong>Índice</strong></summary>
+
+- [Acerca del Proyecto](#acerca-del-proyecto)
+- [Alcance](#alcance)
+- [Objetivos Generales](#objetivo-general)
+  - [Objetivos Específicos](#objetivos-específicos)
+- [KPIs (Indicadores Clave de Rendimiento)](#kpis-indicadores-clave-de-rendimiento)
+- [Stack Tecnológico](#stack-tecnológico)
+- [Pipeline](#pipeline)
+- [Diagrama de Gantt](#diagrama-de-gantt)
+- [Dashboard](#dashboard)
+- [Sistema de Recomendación](#sistema-de-recomendación)
+- [Integrantes](#integrantes)
+
+
+
+
+
 Proyecto Sistema de Recomendación con SteamGames
 Machine Learning Operations (MLOps)
 El proyecto se centra en el Data Engineering con tres conjuntos de datos relacionados con usuarios, reseñas y juegos. Deberás realizar un proceso de ETL para extraer, transformar y cargar datos, optimizando el código.
