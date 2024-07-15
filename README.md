@@ -15,7 +15,10 @@
 - [Integrantes](#integrantes)
 
 
+<details>
+<summary><strong>Objetivos Específicos</strong></summary>
 
+- **Descubrir los Rubros de comida más Demandados:** Identificar los tipos de comida más solicitados en los Estados Unidos.
 
 
 Proyecto Sistema de Recomendación con SteamGames
