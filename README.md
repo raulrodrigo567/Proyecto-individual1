@@ -19,7 +19,12 @@
 <summary><strong>Objetivos Específicos</strong></summary>
 
 - **Descubrir los Rubros de comida más Demandados:** Identificar los tipos de comida más solicitados en los Estados Unidos.
-
+- **Planificación del Sprint: Definición de las historias de usuario y tareas necesarias para este sprint.
+- **Configuración del entorno de trabajo: Instalación y configuración de todas las herramientas y tecnologías necesarias.
+- **Sprint Planning: Establecimiento de objetivos y entrega de componentes específicos alineados con los objetivos del negocio.
+- **Daily Scrum: Reuniones diarias para evaluar el progreso y adaptar el backlog según sea necesario.
+- **Revisión del Sprint: Al final del sprint, se revisa el trabajo completado y se presentan los incrementos del producto.
+<details>
 
 Proyecto Sistema de Recomendación con SteamGames
 Machine Learning Operations (MLOps)
